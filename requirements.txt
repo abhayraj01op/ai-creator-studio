@@ -1,0 +1,11 @@
+transformers>=4.44
+accelerate
+bitsandbytes
+diffusers>=0.30
+kokoro>=0.9.4
+misaki[en]
+soundfile
+f5-tts
+demucs
+gradio>=4.40
+pydrive2
